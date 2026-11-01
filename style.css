@@ -1,0 +1,21 @@
+/*
+Theme Name: Delta Child
+Theme URI: https://github.com/21press/delta-child
+Author: 21Press
+Author URI: https://21press.com
+Description: Starter child theme for Delta. Holds the PHP, CSS and template files that belong to one site, so Delta updates never overwrite them.
+Template: delta
+Version: 1.0.0
+Requires at least: 6.9
+Tested up to: 7.1
+Requires PHP: 8.2
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: delta-child
+Update URI: https://github.com/21press/delta-child
+*/
+
+/*
+ * Your CSS goes below. This file loads on the front end after site.css and
+ * before the CSS of the current page or template.
+ */
