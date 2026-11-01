@@ -4,7 +4,7 @@ A starter child theme for [Delta](https://deltatheme.com), the agent-first WordP
 
 Most Delta sites don't need one. Pages, templates, tokens and site CSS already live in the database and uploads, and a Delta update leaves them alone. Use a child theme for what has to be a file: custom PHP hooks, a stylesheet you keep in version control, or an override of one of Delta's PHP templates.
 
-Delta's documentation: [deltatheme.com/docs](https://deltatheme.com/docs/).
+Full guide: [Child theme](https://deltatheme.com/docs/child-theme/).
 
 ## Install
 
